@@ -1,0 +1,92 @@
+body {
+	background-color: rgb(255, 245, 235);
+	font-family: sans-serif;
+
+}
+
+
+header h2 {
+	border: 5px solid mediumaquamarine;
+	color: gray;
+	width: 500px;
+	padding: 10px;
+	text-align: center;
+	font-family: georgia;
+	font-size: 50px;
+	letter-spacing: .2em;
+	margin: 1em auto .1em auto;
+	border-top-left-radius: 20px 45px;
+	border-bottom-left-radius: 55px 35px;
+	border-top-right-radius: 40px 15px;
+	border-bottom-right-radius: 20px 100px;
+	/*background: linear-gradient(to bottom left, red, orange, yellow, green, blue, indigo, violet);*/
+	/*background-color: #5e454b;*/
+	box-shadow: 2px 2px 2px black;
+	text-shadow: 1px 2px 2px black;
+	
+}
+
+
+
+nav ul {
+	margin: 3em auto 1em auto;
+	text-align: center;
+	width: 800px;
+	border-top: 3px dashed black;
+	border-bottom: 3px dashed black;
+	border-top-right-radiu/*s: 20px 35px;
+	border-bottom-right-radius: 20px 35px;
+	border-top-left-radius: 20px 35px;
+	border-bottom-left-radius*/: 20px 35px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 50px;
+	/*background-color: rgb(222, 237, 240);*/
+	/*background: linear-gradient(to bottom left, red, orange, yellow, green, blue, indigo, violet);*/
+	font-weight: bolder;
+	text-transform: uppercase;
+
+	
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 40px;
+
+}
+
+main p {
+	font-size: 50px;
+	/*border: 2px solid black;*/
+	width: 600px;
+	text-align: center;
+	margin: 1em auto 1em auto;
+	padding: 10px;
+	line-height: 70px;
+	background-color: #f4c7ab;
+	box-shadow: 1px 2px 2px black;
+	border-radius: 10px 10px 10px 10px;
+}
+
+main p span {
+	font-weight: bold;
+	font-size: 70px;
+	letter-spacing: .2em;
+	font-family: serif;
+	color: brown;
+	text-shadow: 2px 1px 5px black;
+}
+
+#lasthorizon {
+	margin-bottom: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: mediumvioletred;
+}

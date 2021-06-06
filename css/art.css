@@ -1,0 +1,25 @@
+body {
+	background-color: #fff5eb;
+}
+
+
+h1 {
+	padding: 10px;
+	background-color: #deedf0;
+	color: gray;
+	text-shadow: 1px 1px 1px black;	
+	border: 1px solid lightslategray;
+
+}
+
+table {
+	text-align: center;
+	padding: 20px;
+	border: .5px solid lightslategray;
+}
+
+
+table thead {
+	text-transform: uppercase;
+	font-weight: bold;
+}
